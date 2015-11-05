@@ -7,11 +7,22 @@ CLI: Command Line Interface ( is a means of interacting with a computer program 
 
 Command line is equal to *shell*
 
-A **Shell** take keyboard commands and passes them  aperating system to carry out.
+A **Shell** take keyboard commands and passes them to the operating system to carry out.
 
 A **shell prompt** is:
 ```  
-[me@linuxbox ~]$
+[me@linuxbox ~]$ // And it appears whenever the shell is ready to accept input.
 ```
-And it appears whenever the shell is ready
-to accept input.
+```
+[me@linuxbox ~]# // when it finish with # is because it has superuser privileges.
+```
+
+We all have a virtual terminal that is running behind our graphical Desktop.
+
+The command **ls** to the terminal -> list the files in the current directory or any other directory.
+
+###Pathname
+
+Is a route we
+
+
