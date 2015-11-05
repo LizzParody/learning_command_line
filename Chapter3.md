@@ -50,5 +50,5 @@ IT SHOWS THE TEXT CONTENT.
 
 
 _______________________
-|There are many ways to represent information on a computer. One of the simples one is ASCII text. ASCII| |(pronounced “As-Key”) is short for Amer- ican Standard Code for Information Interchange. Plain ASCII text| |files contain only the characters themselves and a few rudimentary control codes like tabs, carriage| |returns, and linefeeds.|
-|Throughout a Linux system, many files are stored in text format, and many Linux tools work with text files.| _______________________
+There are many ways to represent information on a computer. One of the simples one is ASCII text. ASCII (pronounced “As-Key”) is short for Amer- ican Standard Code for Information Interchange. Plain ASCII text files contain only the characters themselves and a few rudimentary control codes like tabs, carriage returns, and linefeeds.
+Throughout a Linux system, many files are stored in text format, and many Linux tools work with text files. 
