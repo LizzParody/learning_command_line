@@ -1,4 +1,4 @@
-###Chapter 3
+#Chapter 3
 
 Commands | Meaning
 ------------------
@@ -14,7 +14,7 @@ ls /usr // to see the list of files of a specific directory
 ls ~ /usr // or multiple directories (~ root directory)- (usr directory)
 ls -l // We can also change the format of the output to reveal more detail (-l long format)
 ```
-#Options and arguments
+###Options and arguments
 Commands are often followed by one or more options that modify their behavior and, further, by one or more arguments, the items upon which the command acts. So most commands look something like this:
 ```
 command -options arguments
@@ -23,5 +23,8 @@ command -options arguments
 **Long options** is an option preceded by two dashes --
 
 ```
-ls -lt // In this example, the ls command is given two options (-l to produce long format and to sort the result by the file’s modification time)
+ls -lt // In this example, the ls command is given two options
+(-l to produce long format and to sort the result by the file’s modification time)
+ls -lt --reverse = ls -lt -r // the first one is long option.
 ```
+![Common ls options](/ls_options.png)
