@@ -27,3 +27,4 @@ ls -lt // In this example, the ls command is given two options
 (-l to produce long format and to sort the result by the file’s modification time)
 ls -lt --reverse = ls -lt -r // the first one is long option.
 ```
+![option_ls](https://github.com/lizparody/learning_command_line/blob/master/ls_options.png)
