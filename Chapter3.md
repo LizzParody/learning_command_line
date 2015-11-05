@@ -1,7 +1,7 @@
 #Chapter 3
 
 Commands | Meaning
--------------------------------
+-----------|--------------------
 ls | List directory content - the most used command
 file | Determine file type
 less | View file contents
